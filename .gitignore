@@ -54,3 +54,5 @@ themes/classic/views/
 
 .idea
 
+composer.lock
+vendor
